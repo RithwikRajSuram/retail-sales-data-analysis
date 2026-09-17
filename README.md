@@ -1,5 +1,11 @@
 # Retail Sales Data Analysis using Python
 
+## 📊 Live Dashboard
+
+[**View the interactive dashboard →**](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#retail)
+
+---
+
 ## Project Overview
 This project analyzes a retail sales dataset using Python to understand sales amount distribution, sales activity over time, and differences in sales amounts across product categories. The analysis uses exploratory data analysis techniques to identify patterns, outliers, and category-level sales behavior.
 
