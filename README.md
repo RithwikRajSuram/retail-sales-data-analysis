@@ -2,7 +2,7 @@
 
 ## 📊 Live Dashboard
 
-[**View the interactive dashboard →**](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#retail)
+[![View Live Dashboard](https://img.shields.io/badge/📊_View_Live_Dashboard-2a78d6?style=for-the-badge)](https://claude.ai/artifact/5sW5w5J1WuJfBDt99yz36p#retail)
 
 ---
 
